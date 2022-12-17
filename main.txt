@@ -1,3 +1,5 @@
 Main + Develop + Release1.1.0 + Release1.1.0 + Release1.1.0
 Main + Develop + Release2.2.0 + Release2.2.0 + Release2.2.0
 Main + Develop + Release3.3.0 + Release3.3.0 + Release3.3.0
+Result:
+3Main + 3Develop + 3Release1.1.0 + 3Release2.2.0 + 3Release3.3.0
